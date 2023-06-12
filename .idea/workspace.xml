@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0dc6c8-4cdf-4d9c-ab37-1adb7e03141e" name="Changes" comment="timeGreeting added and completed">
+    <list default="true" id="5a0dc6c8-4cdf-4d9c-ab37-1adb7e03141e" name="Changes" comment="feeds the fish pellets every random day">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DayOfWeek.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FortuneCookie.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AMS.kt" afterDir="false" />
     </list>
@@ -41,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.AMSKt">
     <configuration name="AMSKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AMSKt" />
       <module name="HelloKotlin" />
@@ -51,9 +53,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FortuneCookieKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FortuneCookieKt" />
+      <module name="HelloKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.FortuneCookieKt" />
+      <item itemvalue="Kotlin.AMSKt" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.AMSKt" />
+        <item itemvalue="Kotlin.FortuneCookieKt" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686166744409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feeds the fish pellets every random day">
+      <created>1686167371406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686167371406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting point commit" />
     <MESSAGE value="timeGreeting added and completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="timeGreeting added and completed" />
+    <MESSAGE value="feeds the fish pellets every random day" />
+    <option name="LAST_COMMIT_MESSAGE" value="feeds the fish pellets every random day" />
   </component>
 </project>
