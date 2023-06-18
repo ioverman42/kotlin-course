@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a0dc6c8-4cdf-4d9c-ab37-1adb7e03141e" name="Changes" comment="feeds the fish pellets every random day">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DayOfWeek.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FortuneCookie.kt" afterDir="false" />
+    <list default="true" id="5a0dc6c8-4cdf-4d9c-ab37-1adb7e03141e" name="Changes" comment="moved early work to own file&#10;feeds fish different food each random day">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AMS.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FortuneCookie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FortuneCookie.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6c0f140e-588b-4e44-9870-3ae6825481d0" />
+        <option name="url" value="https://github.com/ioverman42/kotlin-course.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -35,15 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.AMSKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.FortuneCookieKt">
     <configuration name="AMSKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AMSKt" />
       <module name="HelloKotlin" />
@@ -66,8 +84,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.AMSKt" />
         <item itemvalue="Kotlin.FortuneCookieKt" />
+        <item itemvalue="Kotlin.AMSKt" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686167371406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="moved early work to own file&#10;feeds fish different food each random day">
+      <created>1686606864980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686606864981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +159,7 @@
     <MESSAGE value="starting point commit" />
     <MESSAGE value="timeGreeting added and completed" />
     <MESSAGE value="feeds the fish pellets every random day" />
-    <option name="LAST_COMMIT_MESSAGE" value="feeds the fish pellets every random day" />
+    <MESSAGE value="moved early work to own file&#10;feeds fish different food each random day" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved early work to own file&#10;feeds fish different food each random day" />
   </component>
 </project>
